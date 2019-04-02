@@ -1,0 +1,321 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+riControl
+</name>
+</assembly>
+<members>
+<member name="T:riControl.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.about">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.dbError">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.dbOkay">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.iconfinder_033_95841">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.iconfinder_036_95741">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.iconfinder_038_95845">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.iconfinder_055_95797">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.iconfinder_109_95724">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.iconfinder_128_95777">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.iconfinder_157_95830">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.iconfinder_173_95790">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.none">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:riControl.My.Resources.Resources.settings">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbCategoriaProdutoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbFormaPagamentoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbFornecedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbFornecedores_tbPedidosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbPedidosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbPedidos_tbProdutosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbProdutosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbUnidadeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbCategoriaProdutoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbFormaPagamentoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbFornecedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbFornecedores_tbPedidosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbPedidosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbPedidos_tbProdutosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbProdutosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbUnidadeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbCategoriaProdutoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbFormaPagamentoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbFornecedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbFornecedores_tbPedidosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbPedidosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbPedidos_tbProdutosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbProdutosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSet.tbUnidadeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSetTableAdapters.tbCategoriaProdutoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSetTableAdapters.tbClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSetTableAdapters.tbFormaPagamentoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSetTableAdapters.tbFornecedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSetTableAdapters.tbFornecedores_tbPedidosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSetTableAdapters.tbPedidosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSetTableAdapters.tbPedidos_tbProdutosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSetTableAdapters.tbProdutosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSetTableAdapters.tbUnidadeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:riControl.riControl_dbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(riControl.riControl_dbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:riControl.riControl_dbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(riControl.riControl_dbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:riControl.riControl_dbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(riControl.riControl_dbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:riControl.riControl_dbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:riControl.riControl_dbDataSetTableAdapters.TableAdapterManager.UpdateAll(riControl.riControl_dbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:riControl.riControl_dbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

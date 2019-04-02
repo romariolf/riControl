@@ -1,0 +1,14 @@
+C:\Users\rlima\Documents\Development\toit\riControl\bin\Debug\riControl.exe.config
+C:\Users\rlima\Documents\Development\toit\riControl\bin\Debug\riControl.exe
+C:\Users\rlima\Documents\Development\toit\riControl\bin\Debug\riControl.pdb
+C:\Users\rlima\Documents\Development\toit\riControl\bin\Debug\riControl.xml
+C:\Users\rlima\Documents\Development\toit\riControl\obj\Debug\riControl.vbprojResolveAssemblyReference.cache
+C:\Users\rlima\Documents\Development\toit\riControl\obj\Debug\riControl.Resources.resources
+C:\Users\rlima\Documents\Development\toit\riControl\obj\Debug\riControl.vbproj.GenerateResource.Cache
+C:\Users\rlima\Documents\Development\toit\riControl\obj\Debug\riControl.exe
+C:\Users\rlima\Documents\Development\toit\riControl\obj\Debug\riControl.xml
+C:\Users\rlima\Documents\Development\toit\riControl\obj\Debug\riControl.pdb
+C:\Users\rlima\Documents\Development\toit\riControl\obj\Debug\riControl.clientList.resources
+C:\Users\rlima\Documents\Development\toit\riControl\bin\Debug\System.Data.SQLite.dll
+C:\Users\rlima\Documents\Development\toit\riControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\rlima\Documents\Development\toit\riControl\obj\Debug\riControl.home.resources
